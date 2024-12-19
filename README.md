@@ -9,9 +9,21 @@ Markitdown Lib is a simple web-based tool that converts text, PDF, or Word docum
   - OpenAI GPT
   - Gemini
   - Meta AI (LLaMA)
+
+## Technologies Used
+- Python
+- Streamlit
+- Markdown
+- OpenAI API
+- Google Generative AI (GEMINI)
+- Hugging Face Transformers
+- PyPDF2
+- Python-docx
   
 ## Prerequisites
 - Python 3.8 or higher
 - API keys for the chosen LLM (e.g., OpenAI, Gemini, or Meta AI).
+
+
 
 
